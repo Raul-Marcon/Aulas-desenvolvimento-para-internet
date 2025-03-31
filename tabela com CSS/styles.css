@@ -1,0 +1,25 @@
+body {
+    display:flex;
+    justify-content:Center;
+}
+
+#tabela {
+    width:600px;
+}
+
+th {
+    background-color:#0d5188;
+    color:white;
+}
+
+#tabledado {
+    background-color:#66c5e3;
+}
+
+#numero {
+    background-color:rgb(185, 185, 185);
+}
+
+#azulclaro {
+    background-color:#c7e7f3;
+}
