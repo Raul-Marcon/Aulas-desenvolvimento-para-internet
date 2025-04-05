@@ -126,3 +126,26 @@ li {
 #sistemadepontuacaotabela {
     margin-left:12%;
 }
+
+#creditos {
+    height:250px;
+    width:500px;
+    background-color:#3c70ff;
+    border:5px solid #658eff;
+    border-radius:15px;
+    margin-left:18%;
+}
+
+#tituloRA {
+    font-size:30px;
+    display:flex;
+    justify-content:center;
+    color:white;
+}
+
+#nome {
+    font-size:25px;
+    color:white;
+    display:flex;
+    justify-content:center;
+}
